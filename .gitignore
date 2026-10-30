@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+.browser-test-*/
+diff-review.html
